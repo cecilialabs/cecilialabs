@@ -1,4 +1,4 @@
-# cecelabs
+# cecilialabs
 # ☁️ Cecilia
 
 Cloud Enthusiast building clean, real-world cloud systems on Microsoft Azure
